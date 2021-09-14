@@ -1,0 +1,5 @@
+db.sqlite3
+botdata.sqlite3
+venv/
+.lh/
+.history/
