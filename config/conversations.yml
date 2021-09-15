@@ -3,11 +3,11 @@ category:
 - greetings
 conversations:
 - - hello
-  - Greetings human, i am a machine and i'm ready to answer your questions regarding MyVendor.
+  - Greetings human! I am a machine and I'm ready to answer your questions regarding MyVendor.
+- - zvirisei
+  - Zvirisei munhu? Ndiri mushina uye ndagadzirira kupindura mibvuzvo maererano ne MyVendor.
 - - hi
   - Hey there
-  - Howdy
-  - Welcome
 - - how are you
   - I am functioning. You?
 - - I'm good
