@@ -2,7 +2,8 @@ from pymongo import MongoClient
 
 # Create a mongo client
 
-client = MongoClient("mongodb://localhost:27017")
+# client = MongoClient("mongodb://localhost:27017")
+client = MongoClient("mongodb+srv://lazycoder:9cZdyy1WULAxT2cs@cluster0.zhcie.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
 # Create a db
 db = client["bot_conversations"]
