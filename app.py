@@ -15,12 +15,11 @@ def home():
     with a key of ’Body’. We can access it through Flask’s request object
     """
     incoming_msg = request.values.get('Body', '').lower()
-    
+
     resp = MessagingResponse()
     msg = resp.message()
-    
+
     user_text = request.args.get('msg')
-    responded = False # By default the responded is True to avoid unnecessary triggers
     if incoming_msg.find(str(user_text)):
         bot_response = ChatBot.get_response(incoming_msg)
         msg.body(yaml.dump(bot_response, default_flow_style=False, explicit_start="text"))

@@ -3,15 +3,16 @@ category:
 - greetings
 conversations:
 - - hello
-  - Greetings human! I am a machine and I'm ready to answer your questions regarding MyVendor.
+  - Greetings human! My name is *Ask Devolution*
+    I'm prepared to answer your questions regarding Devolution"
 - - zvirisei
-  - Zvirisei munhu? Ndiri mushina uye ndagadzirira kupindura mibvuzvo maererano ne MyVendor.
-- - hi
-  - Hey there
-- - how are you
-  - I am functioning. You?
-- - I'm good
-  - How can i help you, Human?
+  - Zvirisei munhu? Zita rangu ndinonzi *Bvunza Devolution*, ndagadzirira kupindura mibvuzvo maererano ne Devolution.
+- - What is Devolution?
+  - the transfer or delegation of power to a lower level, especially by central government to local or regional administration.
+- - chii chinonzi Devolution
+  - kuendeswa kana kuendeswa kwesimba kune imwe nhanho yakaderera, kunyanya nehurumende yepakati kune hutungamiri hwenzvimbo kana dunhu.
+- - Send me your curriculum vitae
+  - Please download the document at https://drive.google.com/file/d/1UaPkIEjJxzuXCMSxsRNQ8PEb2_JxaU4t/view?usp=sharing
 - - Tell me about MyVendor
   - MyVendor is a monetization software developed by Ewige Technologies
 - - What is MyVendor
