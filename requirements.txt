@@ -31,7 +31,16 @@ pytz
 PyYAML
 regex
 requests
+ruamel.base
+ruamel.yaml
+six
+spacy
 SQLAlchemy
+sqlparse
+srsly
+thinc
+tqdm
 twilio
 urllib3
+wasabi
 whitenoise
