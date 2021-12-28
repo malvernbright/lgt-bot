@@ -1,3 +1,6 @@
+.idea/
+.code/
+*.pickle
 *.log
 *.pot
 *.pyc
@@ -5,3 +8,5 @@
 venv/
 .lh/
 .history/
+__pycache__/
+lgtbot-venv/
