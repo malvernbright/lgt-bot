@@ -31,8 +31,6 @@ pytz
 PyYAML
 regex
 requests
-ruamel.base
-ruamel.yaml
 six
 spacy
 SQLAlchemy
