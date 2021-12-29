@@ -1,3 +1,5 @@
-A Django WhatsApp Chatbot with chatterbot and Twilio.
+# A Django WhatsApp Chatbot with chatterbot and Twilio
 
-First run pip install -r requirements.txt
+First run
+```pip install -r requirements.txt```
+to install the dependencies

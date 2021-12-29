@@ -3,7 +3,8 @@ from pymongo import MongoClient
 # Create a mongo client
 
 # client = MongoClient("mongodb://localhost:27017")
-client = MongoClient("mongodb+srv://lazycoder:9cZdyy1WULAxT2cs@cluster0.zhcie.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+# client = MongoClient("mongodb+srv://lazycoder:9cZdyy1WULAxT2cs@cluster0.zhcie.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+client = MongoClient("mongodb://localhost:27017/mydb")
 
 # Create a db
 db = client["bot_conversations"]
@@ -11,7 +12,7 @@ db = client["bot_conversations"]
 # Create a collection
 
 known_col = db["conversations"]
-unknown_col = db["unknown_col"]
+unknown_col = db["unknownConversations"]
 
 polls = db["polls"]
 
